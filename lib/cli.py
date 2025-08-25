@@ -1,4 +1,5 @@
 
+from builtins import input, print
 from helpers import (
     exit_program,
     list_departments,
